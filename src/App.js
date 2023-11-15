@@ -1,12 +1,11 @@
 import React from "react";
 import "./index.css";
-import Counter from "./Counter";
+import Todo from "./Todo";
 
 function App() {
-
   return (
     <div>
-      <Counter />
+      <Todo />
     </div>
   );
 }
